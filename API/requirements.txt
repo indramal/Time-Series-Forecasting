@@ -1,0 +1,11 @@
+fastapi[all]
+uvicorn
+mangum
+firebase-admin
+pmdarima
+statsmodels
+pandas
+numpy
+websockets
+setuptools
+pip
